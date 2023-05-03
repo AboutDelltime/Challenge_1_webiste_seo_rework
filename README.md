@@ -1,1 +1,1 @@
-# Challenge_1_webiste_seo_rework
+# Challenge_1_website_seo_rework
