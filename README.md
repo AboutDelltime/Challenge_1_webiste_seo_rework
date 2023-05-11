@@ -22,8 +22,11 @@ THEN they fall in sequential order
 WHEN I view the title element
 THEN I find a concise, descriptive title
 
+<img width="1512" alt="Screenshot 2023-05-10 at 9 18 44 PM" src="https://github.com/AboutDelltime/Challenge_1_webiste_seo_rework/assets/129909439/b065cd74-aa7b-452d-9d72-f511ca6b1563">
+
 
 ## Authors
+
 
 LiDell Montague 
 
